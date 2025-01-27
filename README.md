@@ -27,7 +27,11 @@ This is part of https://coderefinery.github.io/reproducible-python-ml/.
 
 ## Example
 
-(copy-paste-able example)
+This example will generate 50 samples:
+
+$ python generate_data.py --num-samples 50 --training-data train.csv --test-data test.csv
+
+(we need more copy-paste-able examples)
 
 
 ## Documentation
